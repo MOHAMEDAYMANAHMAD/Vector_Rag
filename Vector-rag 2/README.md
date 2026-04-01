@@ -13,3 +13,5 @@ During the development of this project, I performed the following:
 
 ### 🚀 Local Deployment
 * Integrated the **Gemma 3** model via the **Ollama** platform.
+
+<font color="red"><b>All files are located in the files folder.</b></font>
